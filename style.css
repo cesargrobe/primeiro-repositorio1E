@@ -1,9 +1,14 @@
 body {
-    background-color: #CCCCCC;
+   
 }
 
 img {
     width: 100%;
+}
+
+.apresentacao {
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 h1 {
@@ -17,4 +22,13 @@ p {
 
 em strong {
     color: red;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
 }
